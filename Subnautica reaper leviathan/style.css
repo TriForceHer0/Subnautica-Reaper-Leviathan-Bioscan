@@ -1,0 +1,60 @@
+body
+{
+  background: rgb( 0, 0, 128);
+}
+
+p {
+  color: lightblue;
+}
+
+li {
+  color: lightblue;
+}
+h1 {
+  color:rgb( 64, 64, 220);
+  text-align: center
+}
+
+h2{
+  color:rgb( 64, 64, 220);
+  text-align: center;
+}
+
+h6{
+  color: blue;
+  text-align: center
+}
+
+img {
+  height: 235px;
+  border-style:inset;
+  border-width: 6px;
+  border-color: blue;
+  border-radius: 15px;
+}
+
+p{
+  border-style: double;
+  border-color: aqua;
+  border-width: 6px;
+  border-radius: 15px;
+}
+
+Li{
+  border-style: double;
+  border-color: aqua;
+  border-width: 6px;
+  border-radius: 15px;
+}
+
+h5{
+  color: blue;
+}
+
+p{
+  background-color: blue;
+}
+
+li{
+  background-color: blue;
+}
